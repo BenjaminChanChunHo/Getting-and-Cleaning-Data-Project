@@ -1,5 +1,3 @@
-setwd("C:/Users/Benjamin Chan/Desktop/Trial/datascience/getdata")
-
 library(reshape2)
 
 # Get and clean data
