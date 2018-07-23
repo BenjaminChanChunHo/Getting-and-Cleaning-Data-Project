@@ -4,7 +4,7 @@ Data: Human Activity Recognition Using Smartphones Data set
 Source: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ## Files
-"CodeBook.md" contains a description of the variables, calculation and any other relevant information.
+"CodeBook.md" contains information of the variables and any other relevant information.
 
 "run_analysis.R" contains the code to perform the data analysis.
 
